@@ -1,5 +1,5 @@
 # Machine_learning
-##CUSTCAT
+#CUSTCAT
 About the dataset
 Imagine a telecommunications provider has segmented its customer base by service usage patterns, categorizing the customers into four groups. If demographic data can be used to predict group membership, the company can customize offers for individual prospective customers. It is a classification problem. That is, given the dataset, with predefined labels, we need to build a model to be used to predict class of a new or unknown case.
 
@@ -9,7 +9,7 @@ The target field, called custcat, has four possible values that correspond to th
 
 
 
-##Heart Disease Data Set
+#Heart Disease Data Set
 Data Set Information:
 
 This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to
@@ -42,7 +42,7 @@ Only 14 attributes used:
 
 
 
-##IRIS Dataset
+#IRIS Dataset
 Data Set Information:
 
 This is perhaps the best known database to be found in the pattern recognition literature. Fisher's paper is a classic in the field and is referenced frequently to this day. (See Duda & Hart, for example.) The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
